@@ -84,7 +84,7 @@ Summation = 30
 
 ---
 
-# 📚 OOP Concepts Used
+#  OOP Concepts Used
 
 This project demonstrates:
 
